@@ -1,0 +1,10 @@
+# Basic commands:
+git clone URL: clone a (remote) repository
+git init: create a (local) repository
+git commit -a: check files into the repository
+git rm: remove a file
+git mv: move/rename a file
+git pull: update file tree from (remote) repository 
+git push: push changes to central repository
+
+
